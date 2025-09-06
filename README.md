@@ -36,7 +36,7 @@ Evaluate ChatGPT, Claude, Bard, Cohere Command, and Meta AI on the same tasks (e
 
 ## Output
 
-## Case 1: Summarizing Text Prompt: “Summarize the following text into three sentences: Artificial intelligence is rapidly evolving and is transforming industries such as healthcare, education, and finance. However, ethical challenges related to privacy, fairness, and accountability remain critical. Governments, researchers, and companies are working together to ensure responsible deployment of AI.”
+## Case 1: Summarizing Text Prompt: “Summarize the following text into three sentences:"
 
 ChatGPT Output: Artificial intelligence is revolutionizing multiple industries, including healthcare, education, and finance. Ethical challenges such as privacy, fairness, and accountability remain significant concerns. Collaborative efforts among governments, researchers, and companies aim to ensure responsible AI use. Result: • Accuracy: ✅ • Clarity: ✅ • Conciseness: ✅ • Overall Quality: Excellent
 
@@ -62,7 +62,7 @@ Meta Output: V2G systems use power electronics to move electricity between cars 
 
 Comparative Analysis Platform Accuracy Clarity Depth UX Overall Rank ChatGPT Excellent Excellent High Smooth ⭐ #1 Claude Very Good Excellent Medium-High Clean ⭐ #2 Bard Moderate Good Low Friendly ⭐ #3 Cohere Good Good Medium Technical ⭐ #4 Meta Average Fair Low Basic 
 
-## 3.Case 1: Summarizing Text Prompt 2 – Renewable Energy Instruction: “Summarize the following passage into a short paragraph: Renewable energy sources, such as solar, wind, and hydropower, are increasingly adopted to reduce dependence on fossil fuels. These energy systems are environmentally friendly, sustainable, and help in reducing carbon emissions. However, challenges remain in terms of energy storage, grid integration, and cost competitiveness.”
+## 3.Case 1: Summarizing Text Prompt 2 – Renewable Energy Instruction:"
 
 ## Outputs from Each Platform 
 
